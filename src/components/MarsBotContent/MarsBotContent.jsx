@@ -13,16 +13,7 @@ const MarsBotContent = () => {
 
   return (
     <div>
-      {events.map(event => (
-        <div key={event.id}>
-          <h2>{event.eventName}</h2>
-          <p>Location: {event.location}</p>
-          <p>Date: {event.currentdate}</p>
-          <p>Time: {event.currenttime}</p>
-          <p>Next Date: {event.nextdate}</p>
-          <p>Next Time: {event.nexttime}</p>
-        </div>
-      ))}
+     
     </div>
   );
 };

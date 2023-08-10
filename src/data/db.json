@@ -25,8 +25,16 @@
         "eventName": "Event Hackaton",
         "location": "Tinchlik",
         "nextdate": "30-iyul",
-        "nexttime": "11:00"
+        "nexttime": "11:00" 
+      },
+      {
+        "id": "2",
+        "currenttime": "14:00",
+        "currentdate": "27-iyul",
+        "eventName": "Event Hackaton",
+        "location": "Tinchlik",
+        "nextdate": "30-iyul",
+        "nexttime": "11:00" 
       }
-
   ]
 }

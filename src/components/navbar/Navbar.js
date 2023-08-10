@@ -4,7 +4,7 @@ import Typography from '../others/Typography/Typography'
 
 const Navbar = () => {
     return (
-        <nav className='py-6 shadow-2xl relative z-50'>
+        <nav className='py-6 shadow-2xl relative z-50 p-11'>
             <div className='max-w-screen-2xl mx-auto flex items-center justify-between'>
                 <Logo />
 

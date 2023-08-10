@@ -3,6 +3,7 @@ import './App.css';
 import MarsBot from './components/MarsBot/MarsBot';
 import MarsBotContent from './components/MarsBotContent/MarsBotContent';
 import Navbar from './components/navbar/Navbar';
+import Cards from './components/ListCard/Cards';
 
 function App() {
 
@@ -19,6 +20,7 @@ function App() {
         </div>
        <div className='Mars_bot p-10 w-3/5'>
           <MarsBot />
+          <Cards/>
        </div>
        <div className='MarsBotContent'>
         <MarsBotContent />
