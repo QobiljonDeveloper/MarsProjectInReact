@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "Gilroy";
+  src: url("../path-to-your-fonts/gilroy-light.woff2") format("woff2"),
+    url("../path-to-your-fonts/gilroy-light.woff") format("woff");
+  /* Repeat the above line for other font weights and styles as needed */
+  font-weight: 300; /* Adjust the font weight */
+  font-style: normal; /* Adjust the font style */
+}

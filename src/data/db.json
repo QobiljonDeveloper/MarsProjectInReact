@@ -1,0 +1,32 @@
+{
+  "MarsBot": [
+    {
+      "id": "0",
+      "currenttime": "13:00",
+      "currentdate": "26-iyul",
+      "eventName": "Event Battle",
+      "location": "Yunusobod",
+      "nextdate": "27-iyul",
+      "nexttime": "11:00"
+    },
+    {
+        "id": "1",
+        "currenttime": "18:00",
+        "currentdate": "26-iyul",
+        "eventName": "Ta'til",
+        "location": "All Station",
+        "nextdate": "28-iyul",
+        "nexttime": "12:00"
+      },
+      {
+        "id": "2",
+        "currenttime": "14:00",
+        "currentdate": "27-iyul",
+        "eventName": "Event Hackaton",
+        "location": "Tinchlik",
+        "nextdate": "30-iyul",
+        "nexttime": "11:00"
+      }
+
+  ]
+}
