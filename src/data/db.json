@@ -36,5 +36,31 @@
         "nextdate": "30-iyul",
         "nexttime": "11:00" 
       }
-  ]
+  ],
+  "Products":[
+    {
+      "img":"./public/images/Naushnik.png",
+      "name": "Mars Airpods",
+      "price": "899 Coins",
+      "restproduct": "6 остаток"
+    },
+    {
+      "img":"./public/images/Soat.png",
+      "name": "Mars Watch",
+      "price": "899 Coins",
+      "restproduct": "6 остаток"
+    },
+    {
+      "img":"./public/images/Ruchka.png",
+      "name": "Mars Pen",
+      "price": "899 Coins",
+      "restproduct": "6 остаток"
+    },
+    {
+      "img":"./public/images/gilam.png",
+      "name": "Mars Rug",
+      "price": "899 Coins",
+      "restproduct": "6 остаток"
+    }
+   ]
 }
