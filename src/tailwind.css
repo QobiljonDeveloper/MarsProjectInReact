@@ -773,8 +773,21 @@ video {
   overflow: hidden;
 }
 
+<<<<<<< HEAD
 .overflow-x-auto {
   overflow-x: auto;
+=======
+.overflow-y-auto {
+  overflow-y: auto;
+}
+
+.gap-7 {
+  gap: 1.75rem;
+}
+
+.overflow-hidden {
+  overflow: hidden;
+>>>>>>> f17b61f66a1a78c7843b7661cf8bb88e821ba890
 }
 
 .truncate {
@@ -847,10 +860,13 @@ video {
   padding: 0.75rem;
 }
 
+<<<<<<< HEAD
 .p-5 {
   padding: 1.25rem;
 }
 
+=======
+>>>>>>> f17b61f66a1a78c7843b7661cf8bb88e821ba890
 .p-4 {
   padding: 1rem;
 }
