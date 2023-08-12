@@ -4,6 +4,7 @@ import MarsBot from './components/MarsBot/MarsBot';
 import MarsBotContent from './components/MarsBotContent/MarsBotContent';
 import Navbar from './components/navbar/Navbar';
 import Cards from './components/ListCard/Cards';
+import MainBlock from './components/MainBlock/MainBlock';
 
 function App() {
 
@@ -18,13 +19,15 @@ function App() {
             <img src='./icons/dashboard-1-svgrepo-com 1 (1).png' alt='' />
           </div>
         </div>
-       <div className='Mars_bot p-10 w-3/5'>
+        <div className='Mars_bot p-10 w-3/5'>
           <MarsBot />
-          <Cards/>
-       </div>
-       <div className='MarsBotContent'>
-        <MarsBotContent />
-       </div>
+          <Cards />
+            <MainBlock/>
+        </div>
+        <div className='MarsBotContent'>
+          <MarsBotContent />
+        </div>
+        
       </main>
     </div>
   );
