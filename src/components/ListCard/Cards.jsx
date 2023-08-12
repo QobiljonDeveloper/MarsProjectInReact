@@ -18,7 +18,7 @@ const Cards = () => {
   }, [url]);
 
   return (
-    <div className="mt-5 flex flex-col gap-4 overflow-y-scrol w-full h-[204px]">
+    <div className="mt-5 flex flex-col gap-4 overflow-y-auto w-full h-[204px] p-3 bg-scroll-[white] cursor-pointer">
       {cards.map((card) => {
         return (
           <div className="card w-full h-[65px] border-l-[10px] shadow-lg border-[red] p-4 flex justify-between items-center">
