@@ -7,60 +7,68 @@
       "eventName": "Event Battle",
       "location": "Yunusobod",
       "nextdate": "27-iyul",
-      "nexttime": "11:00"
+      "nexttime": "11:00",
+      "img": "./images/news.png",
+      "title": "😋 «Mars IT School»da mazali ziyofat!🍕 Kelayotgan yakshanba 23-iyul kuni barcha"
     },
     {
-        "id": "1",
-        "currenttime": "18:00",
-        "currentdate": "26-iyul",
-        "eventName": "Ta'til",
-        "location": "All Station",
-        "nextdate": "28-iyul",
-        "nexttime": "12:00"
-      },
-      {
-        "id": "2",
-        "currenttime": "14:00",
-        "currentdate": "27-iyul",
-        "eventName": "Event Hackaton",
-        "location": "Tinchlik",
-        "nextdate": "30-iyul",
-        "nexttime": "11:00" 
-      },
-      {
-        "id": "2",
-        "currenttime": "14:00",
-        "currentdate": "27-iyul",
-        "eventName": "Event Hackaton",
-        "location": "Tinchlik",
-        "nextdate": "30-iyul",
-        "nexttime": "11:00" 
-      }
-  ],
-  "Products":[
+      "id": "1",
+      "currenttime": "18:00",
+      "currentdate": "26-iyul",
+      "eventName": "Ta'til",
+      "location": "All Station",
+      "nextdate": "28-iyul",
+      "nexttime": "12:00",
+      "img": "./images/news.png",
+      "title": "😋 «Mars IT School»da mazali ziyofat!🍕 Kelayotgan yakshanba 23-iyul kuni barcha"
+    },
     {
-      "img":"./public/images/Naushnik.png",
+      "id": "2",
+      "currenttime": "14:00",
+      "currentdate": "27-iyul",
+      "eventName": "Event Hackaton",
+      "location": "Tinchlik",
+      "nextdate": "30-iyul",
+      "nexttime": "11:00",
+      "img": "./images/news.png",
+      "title": "😋 «Mars IT School»da mazali ziyofat!🍕 Kelayotgan yakshanba 23-iyul kuni barcha"
+    },
+    {
+      "id": "3",
+      "currenttime": "14:00",
+      "currentdate": "27-iyul",
+      "eventName": "Event Hackaton",
+      "location": "Tinchlik",
+      "nextdate": "30-iyul",
+      "nexttime": "11:00",
+      "img": "./images/news.png",
+      "title": "😋 «Mars IT School»da mazali ziyofat!🍕 Kelayotgan yakshanba 23-iyul kuni barcha"
+    }
+  ],
+  "Products": [
+    {
+      "img": "./images/Naushnik.png",
       "name": "Mars Airpods",
-      "price": "899 Coins",
+      "price": "559 Coins",
       "restproduct": "6 остаток"
     },
     {
-      "img":"./public/images/Soat.png",
+      "img": "./images/Soat.png",
       "name": "Mars Watch",
       "price": "899 Coins",
       "restproduct": "6 остаток"
     },
     {
-      "img":"./public/images/Ruchka.png",
+      "img": "./images/Ruchka.png",
       "name": "Mars Pen",
-      "price": "899 Coins",
+      "price": "20 Coins",
       "restproduct": "6 остаток"
     },
     {
-      "img":"./public/images/gilam.png",
+      "img": "./images/gilam.png",
       "name": "Mars Rug",
-      "price": "899 Coins",
+      "price": "100 Coins",
       "restproduct": "6 остаток"
     }
-   ]
+  ]
 }

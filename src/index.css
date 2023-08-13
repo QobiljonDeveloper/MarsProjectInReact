@@ -11,3 +11,32 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+main {
+  margin-left: 5%;
+}
+
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 999;
+  background-color: white;
+}
+
+.sidebar {
+  position: fixed;
+  top: 11%;
+  bottom: 0;
+  z-index: 100;
+}
+
+.new-card {
+  height: 350px;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  cursor: pointer;
+}
+  
+
