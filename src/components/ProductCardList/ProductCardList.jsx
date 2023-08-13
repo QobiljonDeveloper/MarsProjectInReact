@@ -12,7 +12,7 @@ const ProductCardList = ({ title, footer, card }) => {
             text={title}
           />
         </div>
-        <div>
+        <div className="new-card">
           {card}
         </div>
       </div>

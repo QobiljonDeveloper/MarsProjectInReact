@@ -646,6 +646,10 @@ video {
   height: 4rem;
 }
 
+.h-\[100vh\] {
+  height: 100vh;
+}
+
 .h-\[204px\] {
   height: 204px;
 }
@@ -753,10 +757,6 @@ video {
 
 .gap-\[5\%\] {
   gap: 5%;
-}
-
-.overflow-hidden {
-  overflow: hidden;
 }
 
 .overflow-y-auto {
