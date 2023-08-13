@@ -702,9 +702,6 @@ video {
   width: 100%;
 }
 
-.w-\[\] {
-  width: ;
-}
 
 .w-\[3\] {
   width: 3;
@@ -715,7 +712,7 @@ video {
 }
 
 .w-\[120pox\] {
-  width: 120pox;
+  width: 120px;
 }
 
 .w-\[120px\] {
