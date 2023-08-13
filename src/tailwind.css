@@ -929,9 +929,7 @@ video {
   text-align: end;
 }
 
-.font-\[\] {
-  font-family: ;
-}
+
 
 .text-2xl {
   font-size: 1.5rem;
@@ -1022,17 +1020,11 @@ video {
   color: rgb(255 255 255 / var(--tw-text-opacity));
 }
 
-.text-\[\] {
-  color: ;
-}
 
-.text-\[\#\] {
-  color: #;
-}
 
-.text-\[\#\#8B8B8B\] {
-  color: ##8B8B8B;
-}
+
+
+
 
 .text-\[\#8B8B8B\] {
   --tw-text-opacity: 1;
