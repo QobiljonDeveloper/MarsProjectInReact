@@ -10,10 +10,10 @@ const Product = () => {
       .then((data) => setCard(data));
   }, []);
   return (
-    <div className="flex flex-col gap-6 ">
+    <div className="flex flex-col gap-6">
       {card.map((item) => {
         return (
-          <div className="flex items-centre justify-between ">
+          <div className="flex items-center justify-between ">
             <img src={item.img} alt="" />
             <div className="flex items-start flex-col w-[120px] ">
               <h4 className="font-bold text-lg">{item.name}</h4>

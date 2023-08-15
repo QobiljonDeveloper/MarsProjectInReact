@@ -1,10 +1,5 @@
-@tailwind base;
 @media screen and (max-height: 900px) {
     .customStyleResponsive {
         max-height: 390px !important;
     }
 }
-@tailwind components;
-@tailwind utilities;
-
-

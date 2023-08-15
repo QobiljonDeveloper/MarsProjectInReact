@@ -11,6 +11,10 @@ module.exports = {
           },
         },
       },
+      screens: {
+        'tall': { 'raw': '(max-height: 825px)' },
+        // => @media (min-height: 825px) { ... }
+      }
     },
   },
 }

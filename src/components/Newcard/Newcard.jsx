@@ -14,9 +14,9 @@ const url = "http://localhost:3000/MarsBot"
   return (
     <div>
       {card.map((card) => (
-        <div key={card.id}>
-            <img src={card.img} alt="" />
-            <h1>{card.title}</h1>
+        <div key={card.id} className='relative my-5 rounded-md overflow-hidden'>
+            <img src={card.img} className='w-full h-screen max-h-[140px] object-cover' alt="" />
+            <h1 className='absolute bottom-0 left-0 w-full px-3 bg-[#00000099] text-white'>{card.title}</h1>
         </div>
       ))}
     </div>
