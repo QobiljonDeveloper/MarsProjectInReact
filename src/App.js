@@ -5,7 +5,6 @@ import MarsBotContent from "./components/MarsBotContent/MarsBotContent";
 import Navbar from "./components/navbar/Navbar";
 import Cards from "./components/ListCard/Cards";
 import MainBlock from "./components/MainBlock/MainBlock";
-
 function App() {
   return (
     <div className="App h-screen max-h-screen overflow-hidden">
@@ -29,6 +28,7 @@ function App() {
         <div className="MarsBotContent">
           <MarsBotContent />
         </div>
+         
       </main>
     </div>
   );
