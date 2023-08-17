@@ -22,7 +22,6 @@ const Cards = () => {
       {cards.map((card) => {
         return (
           <div className="card w-full h-[57px] border-l-[10px] shadow-lg border-[red] px-2 flex justify-between items-center">
-            
             {/* card-time */}
             <div className="time border-r-2 border-solid border-[#D9D9D9] p-2 flex flex-col item-center justify-center">
               
